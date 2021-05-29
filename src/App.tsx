@@ -33,18 +33,6 @@ const App = () => {
         <a href="https://github.com/sra448"><h1 style={{ color: colors[18] }}>GitHub</h1></a>
         <a href="https://www.linkedin.com/in/florian-unternaehrer-807734150/"><h1 style={{ color: colors[22] }}>LinkedIn</h1></a>
       </div>
-      <h2 style={{ color: h2Color }}>
-        What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and
-        typesetting industry Lorem Ipsum has been the industry's standard dummy
-        text ever since the 1500s when an unknown printer took a galley of type
-        and scrambled it to make a type specimen book it has? What is Lorem
-        Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book it has? What is Lorem Ipsum
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry Lorem Ipsum has been the industry's standard dummy text ever
-      </h2>
     </div>
   );
 };

@@ -42,16 +42,3 @@ svg {
   height: 85vh;
   max-width: 100vw;
 }
-
-h2 {
-  width: 120vw;
-  word-wrap: break-word;
-  font-size: 12rem;
-  line-height: 0.65em;
-  transform: rotate(-3deg) scale(2);
-  font-weight: 900;
-  letter-spacing: 0em;
-  user-select: none;
-  cursor: initial;
-  opacity: 0.6;
-}
