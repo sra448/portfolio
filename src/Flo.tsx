@@ -106,7 +106,7 @@ const LAYERS = [
 
 // MAIN COMPONENT
 
-const Flo = ({ colors }) => {
+const Flo = ({ colors }: { colors: string[]}) => {
   // const colors = getChromaColors();
 
   return (
